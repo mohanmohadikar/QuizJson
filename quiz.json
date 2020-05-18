@@ -11,13 +11,13 @@
     {
         "qno" :  2,
         "question" : "In the professional era which woman has won the most titles at Wimbledon [singles, doubles and mixed] ?",
-        "options" : ["Venus","Hingis","Martina Navratilova","Waynetta"],
+        "options" : "Venus",
         "answer" : "Martina Navratilova"
     },
     {
         "qno" :  3,
         "question" : "How many times have Liverpool been relegated from the top flight of English football?",
-        "options" : ["Four","Three","Two", "Five"],
+        "options" : "Four",
         "answer" : "Three"
     }
     ]
