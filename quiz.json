@@ -2,28 +2,20 @@
     {
         "qno" :  1,
         "question" : "Which car manufacturer was the first to win 100 F1 races?",
-        "optA" : "Ferrari",
-        "optB" : "Ford",
-        "optC" : "Mercedez",
-        "optD" : "Audi",
+        "options" : ["Ferrari","Ford", "Mercedez","Audi"],
+        
         "answer" : "Ferrari"
     },
     {
         "qno" :  2,
         "question" : "In the professional era which woman has won the most titles at Wimbledon [singles, doubles and mixed] ?",
-        "optA" : "Venus",
-        "optB" : "Mars",
-        "optC" : "Jupiter",
-        "optD" : "Mercury",
+        "options" : ["Venus","Mars", "Mercury","Jupiter"],
         "answer" : "Mars"
     },
     {
         "qno" :  3,
         "question" : "How many times have Liverpool been relegated from the top flight of English football?",
-        "optA" : "Four",
-        "optB" : "Five",
-        "optC" : "Three",
-        "optD" : "Two",
+        "options" : ["Four","Five", "Three","Two"],
         "answer" : "Three"
     }
 ]
